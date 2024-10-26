@@ -54,7 +54,7 @@
 
 <header>
     <h1>SUU Institute of Engineering & Technology</h1>
-    <p>.../p>
+    <p>...</p>
 </header>
 
 <div class="navbar">
@@ -72,7 +72,7 @@
 </div>
 
 <div class="hero">
-    <p>500 Years of Glory... 🙌</p>
+    <p>500 Years of Glory... 🙌🏻</p>
 </div>
 
 <footer class="footer">
