@@ -76,7 +76,7 @@
 </div>
 
 <footer class="footer">
-    <p>&copy; 2024 SUU Institute of Engineering & Technology 😁</p>
+    <p>&copy; 2024 SUU Institute of Engineering & Technology &#128513;</p>
 </footer>
 
 </body>
