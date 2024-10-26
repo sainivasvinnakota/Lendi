@@ -72,7 +72,7 @@
 </div>
 
 <div class="hero">
-    <p>500 Years of Glory... 🙌🏻</p>
+    <p>500 Years of Glory... &#128588</p>
 </div>
 
 <footer class="footer">
